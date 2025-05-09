@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ongoklevi
-- 👀 I’m interested in web development and windows forms application
+- 👀 Data Analyst with 3+ years of experience turning complex data into actionable insights. Proficient in SQL, Python, Tableau, and passionate about using data to drive strategic decisions. Let’s connect!
 - 🌱 I’m currently learning web development and VB.Net
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on data analytics projects
 - 📫 Reach out to me : leviongok@gmail.com
 
 <!---
